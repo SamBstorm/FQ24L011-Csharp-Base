@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Veuillez introduire votre distance en mètre :");
+int.TryParse(Console.ReadLine(), out int meter);
+Console.WriteLine($"En millimètre : {meter * 1000}");
+//Console.WriteLine("En millimètre : " + (meter * 1000));
+Console.WriteLine($"En centimètre : {meter * 100}");
+Console.WriteLine($"En décimètre : {meter * 10}");
+Console.WriteLine($"En mètre : {meter}");
+Console.WriteLine($"En décamètre : {(float)meter / 10}");
+Console.WriteLine($"En hectomètre : {meter / 100F}");
+Console.WriteLine($"En kilomètre : {meter * 0.001}");
