@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo10_TableMultiplication",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo07_BoucleFibonacci", "Exo07_BoucleFibonacci\Exo07_BoucleFibonacci.csproj", "{80416479-EDD2-49DA-AFEB-5254C91262D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo08_BoucleFactoriel", "Exo08_BoucleFactoriel\Exo08_BoucleFactoriel.csproj", "{B03CFD19-3CDD-4270-9055-096C46C3517D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo09_BoucleNombrePremier", "Exo09_BoucleNombrePremier\Exo09_BoucleNombrePremier.csproj", "{408D518F-58E3-41FC-8FAD-2145C4FF2B19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,14 @@ Global
 		{80416479-EDD2-49DA-AFEB-5254C91262D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80416479-EDD2-49DA-AFEB-5254C91262D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80416479-EDD2-49DA-AFEB-5254C91262D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03CFD19-3CDD-4270-9055-096C46C3517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03CFD19-3CDD-4270-9055-096C46C3517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03CFD19-3CDD-4270-9055-096C46C3517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03CFD19-3CDD-4270-9055-096C46C3517D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408D518F-58E3-41FC-8FAD-2145C4FF2B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408D518F-58E3-41FC-8FAD-2145C4FF2B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408D518F-58E3-41FC-8FAD-2145C4FF2B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408D518F-58E3-41FC-8FAD-2145C4FF2B19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +135,8 @@ Global
 		{D4E6EAF0-A143-40DE-A1D8-8B0D3EB42B97} = {ABD1BF7E-DAA1-442B-9987-8875D3424BF9}
 		{80F7666E-FC37-49A9-98D1-341D44BCE27A} = {ABD1BF7E-DAA1-442B-9987-8875D3424BF9}
 		{80416479-EDD2-49DA-AFEB-5254C91262D9} = {ABD1BF7E-DAA1-442B-9987-8875D3424BF9}
+		{B03CFD19-3CDD-4270-9055-096C46C3517D} = {ABD1BF7E-DAA1-442B-9987-8875D3424BF9}
+		{408D518F-58E3-41FC-8FAD-2145C4FF2B19} = {ABD1BF7E-DAA1-442B-9987-8875D3424BF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DDEB295-F795-44CB-A439-4E8C0344C913}
